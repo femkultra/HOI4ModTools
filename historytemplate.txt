@@ -1,0 +1,20 @@
+history = {
+    capital = %d
+
+    set_research_slots = 3
+    set_stability = 0.7
+    set_war_support = 0.5
+
+    set_politics = {
+        democratic = 25
+        communism = 25
+        fascism = 25
+        neutrality = 25 
+    }
+    set_politics = {
+        ruling_party = %s
+        last_election = "1932.11.8"
+        election_frequency = 48
+        elections_allowed = yes
+    }
+}
